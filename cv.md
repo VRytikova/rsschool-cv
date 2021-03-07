@@ -25,7 +25,7 @@ function solution(str){
 }
 ```
 ### Education
-Now I'm studing in Belarusian State University of Informatics and Electronics. Faculty of Economy and Engineering, Economy of digital business.
+Now I'm studying in Belarusian State University of Informatics and Electronics. Faculty of Economy and Engineering, Economy of digital business.
 At the 2nd course.
 ### Language Skills
 My English now at the level of B2. I also developed my skill while participated in **Euporean youth strategy in the mirror of the real life - that's what we are**.
