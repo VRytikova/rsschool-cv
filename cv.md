@@ -29,4 +29,4 @@ Now I'm studing in Belarusian State University of Informatics and Electronics. F
 At the 2nd course.
 ### Language Skills
 My English now at the level of B2. Gained some practise while participated in **Euporean youth strategy in the mirror of the real life - that's what we are**.
-A youth exchange with 42 young people from Belarus, Germany, Russian Federation, Slovac Republic and Ukraine.
+A youth exchange with 42 young people from Belarus, Germany, Russian Federation, Slovac Republic, Rumania and Ukraine.
