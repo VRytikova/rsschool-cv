@@ -1,2 +1,2 @@
-https://VRytikova.github.io/rsschool-cv/
+https://VRytikova.github.io/rsschool-cv/index.html
 
