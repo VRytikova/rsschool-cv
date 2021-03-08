@@ -1,0 +1,28 @@
+body{
+    font-family: "Berlin Sans FB";
+}
+ h1{
+     text-align: center;
+     color: #001525;
+ }
+span{
+    font-style: normal;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+}
+
+aside{
+    width: 250px;
+    float: left;
+}
+
+main{
+    text-align: center;
+
+}
+
