@@ -1,0 +1,50 @@
+#mainBlock{
+    display: flex;
+    font-family: Garamond;
+    text-align: center;
+}
+
+#leftColumn{
+    width: 380px;
+    height: available;
+    margin-right: 200px;
+    padding: 0px;
+    background-color: #273136;
+    color: white;
+    }
+
+#rightColumn{
+    child-align: right;
+    width: 694px;
+    height: available;
+    margin: 0px;
+    padding: 0px;
+}
+
+#leftFirst{
+    margin: 30px 0;
+}
+
+a{
+    color: white;
+}
+
+#leftColumn h4{
+    background-color: #323E44;
+    margin-bottom: 30px;
+    height: 25px;
+}
+
+#rightColumn h4{
+    background-color: #EAEAEA;
+    margin-bottom: 30px;
+    height: 25px;
+}
+
+h4 span{
+    display: block;
+    justify-content: start;
+    width: 10px;
+    height: 25px;
+    background-color: darkgoldenrod;
+}
