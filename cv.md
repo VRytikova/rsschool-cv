@@ -28,5 +28,5 @@ function solution(str){
 Now I'm studying in Belarusian State University of Informatics and Electronics. Faculty of Economy and Engineering, Economy of digital business.
 At the 2nd course.
 ### Language Skills
-My English now at the level of B2. I also developed my skill while participated in **Euporean youth strategy in the mirror of the real life - that's what we are**.
+My English now at the level of B2. I also developed my skill while participated in **European youth strategy in the mirror of the real life - that's what we are**.
 A youth exchange with 42 young people from Belarus, Germany, Russian Federation, Slovac Republic, Rumania and Ukraine.
