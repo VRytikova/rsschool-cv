@@ -1,6 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 #mainBlock{
     display: flex;
-    font-family: Garamond;
+    justify-content: center;
+    font-family: Garamond, normal;
     text-align: center;
 }
 
@@ -8,7 +14,7 @@
     width: 380px;
     height: available;
     margin-right: 200px;
-    padding: 0px;
+    padding: 0;
     background-color: #273136;
     color: white;
     }
@@ -17,8 +23,8 @@
     child-align: right;
     width: 694px;
     height: available;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 #leftFirst{
@@ -29,22 +35,47 @@ a{
     color: white;
 }
 
-#leftColumn h4{
+#leftColumn h3{
     background-color: #323E44;
     margin-bottom: 30px;
     height: 25px;
+    display: flex;
+    justify-content: start;
 }
 
-#rightColumn h4{
+#rightColumn h3{
     background-color: #EAEAEA;
     margin-bottom: 30px;
     height: 25px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
-h4 span{
-    display: block;
-    justify-content: start;
+h3 span{
+    display: inline-block;
     width: 10px;
     height: 25px;
     background-color: darkgoldenrod;
+}
+
+#leftColumn h3 span{
+    margin-right: 150px ;
+    padding: 0;
+}
+
+#rightColumn h3 span{
+    margin-right: 290px ;
+    padding: 0;
+}
+
+.contacts{
+    list-style-type: none;
+    margin:0 0 0 6px;
+    padding: 0;
+}
+
+img{
+    width: 380px;
+    height: 379px;
 }
